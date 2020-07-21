@@ -1,2 +1,2 @@
-# -Third-Year-Project-MINT
+# Third-Year-Project-MINT
 Old college project migrated from bitbucket
